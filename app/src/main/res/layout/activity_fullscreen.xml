@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#0099cc"
-    tools:context="com.bj.awake.FullscreenActivity">
+    tools:context="com.bj.aaaaa.FullscreenActivity">
 
     <!-- The primary full-screen view. This can be replaced with whatever view
          is needed to present your content, e.g. VideoView, SurfaceView,
@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:keepScreenOn="true"
-        android:text="一键唤醒你的lq"
+        android:text="一键生命救援"
         android:textColor="#33b5e5"
         android:textSize="50sp"
         android:textStyle="bold" />
